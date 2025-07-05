@@ -9,7 +9,7 @@ public class FibonacciSeries {
 
         System.out.println("Fibonacci Series up to " + n + " terms:");
         printFibonacci(n);
-
+        "hello India"
         scanner.close();
     }
 
